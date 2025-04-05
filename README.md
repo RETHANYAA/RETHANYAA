@@ -23,12 +23,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Rethanyaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rethanyaaSV&show_icons=true&theme=tokyonight)
-
----
-
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
